@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/w"
+        android:title="카페" >
+        <menu>
+            <item android:title="caffe"/>
+            <item android:title="restaurant"/>
+            <item android:title="store"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/d"
+        android:title="식당" >
+        <menu >
+            <item android:title="카페"/>
+            <item android:title="식당"/>
+            <item android:title="매장"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/c"
+        android:title="매장" />
+
+</menu>

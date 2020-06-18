@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646438373010",
+    "firebase_url": "https://couponmap-pj.firebaseio.com",
+    "project_id": "couponmap-pj",
+    "storage_bucket": "couponmap-pj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646438373010:android:d9fe3e223d7df02dd7884b",
+        "android_client_info": {
+          "package_name": "com.example.coumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646438373010-9h4f6u4dmdffefh3fefk4dc8eaem0b9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coumap",
+            "certificate_hash": "03db2c644d734e056548ce5317a72eaca3693497"
+          }
+        },
+        {
+          "client_id": "646438373010-6eb9lu93kne1ej3s2fdvh50dk3o7pma0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYY98Z4_uD1EyiyyMKKDJcHQ9SrXYRCYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646438373010-6eb9lu93kne1ej3s2fdvh50dk3o7pma0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
